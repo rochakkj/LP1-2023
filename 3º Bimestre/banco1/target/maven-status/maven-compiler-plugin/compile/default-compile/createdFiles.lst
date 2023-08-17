@@ -1,0 +1,4 @@
+Main.class
+util/HibernateUtil.class
+entity/Endereco.class
+entity/Pessoa.class
