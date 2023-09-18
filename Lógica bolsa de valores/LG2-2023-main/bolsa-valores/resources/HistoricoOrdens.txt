@@ -1,0 +1,2 @@
+Ordem n° 0: {(Acao): Nome tal, R$19,90} enviada para {Davi Gomes, saldo: 8010.0, acoes: [ {(Acao): Nome tal, R$19,90} ]}
+Ordem n° 0: {(Acao): Nome tal, R$19,90} enviada para {Davi Gomes, saldo: 8010.0, acoes: [ {(Acao): Nome tal, R$19,90} ]}
