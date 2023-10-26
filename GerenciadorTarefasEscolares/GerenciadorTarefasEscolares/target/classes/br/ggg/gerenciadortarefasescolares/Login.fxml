@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.ggg.gerenciadortarefasescolares.controllers.loginController">
+   <top>
+      <Label alignment="TOP_RIGHT" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" text="Login" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets top="50.0" />
+         </BorderPane.margin>
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+   </top>
+   <center>
+      <Button mnemonicParsing="false" onAction="#clickLogin" text="Cadastro" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
